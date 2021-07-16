@@ -1,7 +1,7 @@
 <h2>💬 Chatify Messenger™ - Instant Messaging Application</h2>
 
 <p align="center">
-<img src="Preview.png">
+<img src="ApplicationPreview.png">
 </p> 
 
 Designed and Developed an Instant Messaging Application called Chatify Messenger using HTML 5, CSS 3, React JavaScript, Chat Engine Software and Google Firebase Platform.
