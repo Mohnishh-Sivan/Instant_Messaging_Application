@@ -1,4 +1,4 @@
-<h2>💬 Chatify Messenger™ - Instant Messaging Application</h2>
+<h2>💬 Chatify Messenger™ – Instant Messaging Application</h2>
 
 <p align="center">
 <img src="ApplicationPreview.png">
