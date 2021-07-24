@@ -16,7 +16,7 @@ Designed and Developed an Instant Messaging Application called Chatify Messenger
 💬 Chatify Messenger™ - https://chatifymessengerapplication.netlify.app/
 
 <h4>LICENSE AGREEMENT :-</h4>
-Released Under MIT License.<br />
+Released Under Massachusetts Institute Of Technology (MIT) License.<br />
 <p></p>
 Permission Is Hereby Granted, Free Of Charge, To Any Person Obtaining A Copy Of This Software And Associated Documentation Files (The "Software"), To Deal In The Software Without Restriction, Including Without Limitation The Rights To Use, Copy, Modify, Merge, Publish, Distribute, Sublicense, And/Or Sell Copies Of The Software, And To Permit Persons To Whom The Software Is Furnished To Do So, Subject To The Following Conditions :-<br />
 <p></p>
