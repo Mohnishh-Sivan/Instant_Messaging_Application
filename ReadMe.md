@@ -14,6 +14,7 @@ Designed and Developed an Instant Messaging Application called Chatify Messenger
 
 <h4>APPLICATION URL :-</h4>
 💬 Chatify Messenger™ - https://chatifymessengerapplication.netlify.app/
+<h6 align="right">Adjust Zoom To 80% For Better Experience</h6>
 
 <h4>LICENSE AGREEMENT :-</h4>
 Released Under Massachusetts Institute Of Technology License.<br />
